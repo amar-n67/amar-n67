@@ -1,0 +1,21 @@
+# 💫 About Me:
+## About Me <br><br>Hi, I'm Amar Nath! 👋<br><br>I am a Developer at Wipro (since May 2022) and currently pursuing higher studies at BITS Pilani. I specialize in Microsoft full-stack development, enterprise system design, and cloud workflows, with hands-on domain experience in Core Banking and Fintech.<br><br>---<br><br>* 🔭 **I’m currently working on**: <br>  * **showTime**: An enterprise-level ticketing platform handling bookings, financial transactions, ticket retrieval, and real-time cancellations built with ASP.NET & PostgreSQL.<br>  * **HospitalFlow**: An intelligent hospital operations management system covering end-to-end workflows including admissions, pharmacy, bed/ward allocations, nurse logs, transactions, and volunteer tracking.<br>* 👯 **I’m looking to collaborate on**: Full-stack web development projects and complex, scalable web applications.<br>* 🤝 **I’m looking for help with**: Advanced System Design, deep-dive .NET Framework architecture, and modern frontend design principles.<br>* 🌱 **I’m currently learning**: Advanced System Design, .NET Framework, Angular, WPF, and ServiceNow platform development.<br>* 💬 **Ask me about**: Microsoft Full-Stack Development (C#, .NET, ASP.NET, PostgreSQL), Core Banking, Fintech solutions, and Cloud DevOps.<br>* ⚡ **Fun fact**: Balancing full-time developer responsibilities at Wipro while completing my degree at BITS Pilani has turned me into a multi-tasking pro!
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arcanaamar67) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amar-nath-7an) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:an.amarnath67@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=amar-n67&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=amar-n67&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amar-n67&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=amar-n67&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
